@@ -7,5 +7,3 @@ print ("hello sumanth Donraju")
 print ("added new trigger")
 print ("check ")
 print ("merging")
-
-
