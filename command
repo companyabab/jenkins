@@ -34,6 +34,7 @@ netstat -anp
   741  cd 
   742  ls
   743  vi commands 
+  blkid
   744  mount -a 
   745  mount -all
   746  df -h 
